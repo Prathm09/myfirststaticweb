@@ -15,8 +15,8 @@ body {
 
 /* Header */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #37a8ca;
+    color: #050404;
     padding: 20px 0;
 }
 
@@ -41,15 +41,15 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: #fff;
+    color: #060606;
     text-decoration: none;
     font-weight: bold;
 }
 
 /* Hero Section */
 #hero {
-    background-color: #4CAF50;
-    color: #fff;
+    background-color: #4ca3af;
+    color: #050505;
     text-align: center;
     padding: 60px 20px;
 }
